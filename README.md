@@ -3,7 +3,7 @@ Example Gatling Simulation with sbt
 
 This repository is meant to accompany:
 
-http://blog.brod.es/gatling/simulation/getting/started/2017/03/21/simple-gatling-simulation.html
+http://blog.brod.es/gatling/simulation/getting/started/2017/03/21/creating-a-simple-gatling-simulation.html
 
 Usage
 -----
